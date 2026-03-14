@@ -3,7 +3,7 @@
 import { useState } from "react";
 import Item from "./Item";
 
-export default function GroceryItemItem({ items }) {
+export default function GroceryItemList({ items }) {
   const [sortBy, setSortBy] = useState("name");
 
   const sortedItems = [...items].sort((a, b) => {

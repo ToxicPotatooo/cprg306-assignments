@@ -1,4 +1,4 @@
-export default function GroceryItemItem({ name, quantity, category }) {
+export default function GroceryItem({ name, quantity, category }) {
   return (
     <li className="bg-gray-800 p-4 rounded-lg shadow-md hover:shadow-lg transition-shadow">
       <div className="text-xl font-semibold text-white">{name}</div>
