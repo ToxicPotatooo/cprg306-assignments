@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 import { getItems, addItem } from "../_services/shopping-list-service";
-import { useUserAuth } from "../contexts/AuthContext";
+import { useUserAuth } from "../../contexts/AuthContext";
 
 export default function ShoppingList() {
   const { user } = useUserAuth();
