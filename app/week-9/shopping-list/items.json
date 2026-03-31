@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "milk, 4 L 🥛",
+    "quantity": 1,
+    "category": "dairy"
+  },
+  {
+    "id": 2,
+    "name": "bread 🍞",
+    "quantity": 2,
+    "category": "bakery"
+  },
+  {
+    "id": 3,
+    "name": "eggs, dozen 🥚",
+    "quantity": 2,
+    "category": "dairy"
+  },
+  {
+    "id": 4,
+    "name": "bananas 🍌",
+    "quantity": 6,
+    "category": "produce"
+  },
+  {
+    "id": 5,
+    "name": "broccoli 🥦",
+    "quantity": 3,
+    "category": "produce"
+  },
+  {
+    "id": 6,
+    "name": "chicken breasts 🍗",
+    "quantity": 2,
+    "category": "meat"
+  },
+  {
+    "id": 7,
+    "name": "pasta 🍝",
+    "quantity": 3,
+    "category": "dry goods"
+  },
+  {
+    "id": 8,
+    "name": "tomato sauce 🍅",
+    "quantity": 3,
+    "category": "canned goods"
+  },
+  {
+    "id": 9,
+    "name": "ice cream 🍦",
+    "quantity": 1,
+    "category": "frozen foods"
+  },
+  {
+    "id": 10,
+    "name": "paper towels 🧻",
+    "quantity": 2,
+    "category": "household"
+  }
+]
